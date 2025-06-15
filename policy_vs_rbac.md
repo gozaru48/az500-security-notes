@@ -52,3 +52,8 @@ Azure provides two major tools for managing resource governance and access contr
 ## Notes
 
 Combining both tools provides layered security and effective resource management.
+
+## Visual Comparison
+
+![Azure Policy vs RBAC](imgs/policy_vs_rbac01.png)
+![Azure Policy vs RBAC](imgs/policy_vs_rbac02.png)
