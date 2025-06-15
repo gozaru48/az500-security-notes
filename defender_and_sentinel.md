@@ -54,7 +54,11 @@ Defender for Cloud alerts can be forwarded to Sentinel for centralized monitorin
 Using both together creates a comprehensive detection and response architecture.
 
 
+---
+
 ## Visual Comparison
+
+
 
 ![Defender for Cloud vs Microsoft Sentinel](imgs/defender_vs_sentinel.png)
 
