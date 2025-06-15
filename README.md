@@ -1,24 +1,13 @@
-# AZ-500 Security Notes
+# AZ-500 Study Notes
 
-This repository contains my study notes and summarized concepts for the Microsoft AZ-500 certification:  
-**Microsoft Azure Security Technologies**.
+This repository contains personal study notes for the Microsoft AZ-500 certification: Microsoft Azure Security Technologies.
 
-🧠 **Exam Passed**: June 2025  
-🔐 **Topics Covered**: Network Security, Identity Management, Governance, Logging & Monitoring
+It includes:
+- Conceptual summaries of key security components in Azure
+- Comparisons of technologies such as NSG vs Azure Firewall, RBAC vs PIM
+- Notes on governance, monitoring, and Microsoft Defender for Cloud
+- Materials written in English as part of my professional development and ACS preparation
 
----
+All content is based on my own learning and exam preparation for the AZ-500 exam, which I passed in June 2025.
 
-## 🗂️ Repository Structure
-
-- `network_security.md`: Comparison of NSG, Azure Firewall, Bastion, and more
-- `policy_vs_initiative.md`: Differences and examples of Azure Policy vs Initiative
-- `identity_access.md`: RBAC, PIM, Conditional Access, and Identity Protection
-- `imgs/`: Diagrams and screenshots (optional)
-
----
-
-## ✍️ Motivation
-
-This is a personal reference created during my preparation,  
-and also serves as proof of skill for ACS assessment and job interviews in the cloud security domain.
 
